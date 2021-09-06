@@ -73,11 +73,11 @@ input, select, textarea {
 }
 
 /* Impressum - Addon Georg */
-	
-	.impressum {
-		font-size: x-small;
-		background-color: yellow; 
-	}
+
+#impressum {
+	font-size: x-small;
+	background-color: yellow; 
+}
 
 
 /* Row */
