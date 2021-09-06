@@ -75,8 +75,9 @@ input, select, textarea {
 /* Impressum - Addon Georg */
 
 #impressum {
-	font-size: x-small;
-	background-color: yellow; 
+	font-size:small;
+	margin-left:2em;
+	/*background-color: yellow; */
 }
 
 
