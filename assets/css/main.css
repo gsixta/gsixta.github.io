@@ -25,9 +25,6 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
-impressum {
-	font-size: 50%;}
-
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -74,6 +71,12 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+
+/* Impressum - Addon Georg */
+	.impressum {
+		font-size: x-small; 
+	}
+
 
 /* Row */
 
